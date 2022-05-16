@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
-- ⚡ Fun fact **Oneye 😜**
+<!-- - ⚡ Fun fact **Oneye 😜** -->
 
 ## 🛠 &nbsp;Some of my knowledges/tools that I use
 

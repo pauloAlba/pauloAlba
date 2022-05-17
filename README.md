@@ -1,18 +1,18 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Paulo Alba</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pr2013com&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pauloAlba&color=yellow" alt="Profile views" /> </p>
 
 
-<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/pr2013com/b0cf63ae67481e3bc74506d1aa4547fa/raw/53c2e4955da32db64001099607121c809be381f0/githubcard.svg"/>
+<!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/pauloAlba/b0cf63ae67481e3bc74506d1aa4547fa/raw/53c2e4955da32db64001099607121c809be381f0/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Paulo Alba</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pr2013com&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pauloAlba&color=yellow" alt="Profile views" /> </p>
 -->
 
 <!-- - 🔥 Web Developer & Instructor focused on helping people start programming -->
 
 - 🔭 I’m currently found for a job!
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/pr2013com)
+- 👨‍💻 All of my projects are available at [github](https://github.com/pauloAlba)
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
@@ -38,8 +38,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=pr2013com&show_icons=true&theme=vision-friendly-dark" alt="pr2013com's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr2013com&layout=compact&theme=vision-friendly-dark" alt="pr2013com's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=pauloAlba&show_icons=true&theme=vision-friendly-dark" alt="pauloAlba's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloAlba&layout=compact&theme=vision-friendly-dark" alt="pauloAlba's most languages"/>
 </p>
 
 

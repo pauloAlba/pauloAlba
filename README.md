@@ -10,7 +10,7 @@
 
 <!-- - 🔥 Web Developer & Instructor focused on helping people start programming -->
 
-- 🔭 I’m currently found for a job!
+- 🔭 I'm looking for a job
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/pauloAlba)
 
